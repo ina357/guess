@@ -1,0 +1,1 @@
+var GUESS_PC={init:function(){PRODUCT.like();FLOATING.basket();FLOATING.like();FLOATING.today();}}

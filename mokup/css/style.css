@@ -1,0 +1,20 @@
+*{margin: 0; padding: 0;}
+body{background: rgb(101, 192, 192); height: 100vh}
+.phone{
+    width: 482px;
+    height: 980px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: url(../img/blackMokup.png) no-repeat;
+}
+.phone .content{
+    width: 416px;
+    height: 742px;
+    background: #fff;
+    position: absolute;
+    top: 120px;
+    left: 34px;
+}
+.phone .content iframe{width: 100%; height: 100%;}
